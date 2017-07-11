@@ -8,14 +8,6 @@ email: malikehsan016@gmail.com
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
 menu:
-- {name: About me, url: '#about-me'}
-- {name: Projects, url: '#work'}
-- {name: Resume, url: 'https://drive.google.com/file/d/0B6L_CrTucJhFWXhfX2hiSWlTTDg/view?usp=sharing'}
-- {name: Activities, url: '#acti'}
-- {name: Extracurricular, url: '#clients'}
-- {name: Letters of Appreciation, url: '#letters'}
-- {name: Contact, url: '#contact'}
-
 
 
 
